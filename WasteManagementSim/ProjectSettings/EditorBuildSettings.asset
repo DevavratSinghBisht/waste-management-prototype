@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Segregate.unity
+    guid: 9290a4a10e9ce904c9eab8dd15b8c156
+  - enabled: 1
+    path: Assets/Scenes/WasteMarket.unity
+    guid: 75e649e8752862f47aaf20bacb34f908
+  - enabled: 1
+    path: Assets/Scenes/Search.unity
+    guid: 89721c8b715074840b798aa876461499
+  - enabled: 1
+    path: Assets/Scenes/EWasteData.unity
+    guid: b92376019e5f9d84cb9687ab6ea7c0bb
+  - enabled: 1
+    path: Assets/Scenes/Contribute.unity
+    guid: 48e25a2ac2ba3054fbcf5d7a5dd51825
+  - enabled: 1
+    path: Assets/Scenes/WasteAdded.unity
+    guid: 1e6dacfa1adafb64882322ece0825fb3
+  m_configObjects: {}
