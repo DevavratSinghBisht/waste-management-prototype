@@ -1,7 +1,7 @@
 # waste-management-prototype
 
 Please Refer the video for seeing the execution.
-Explanation of Video:
+Explanation of Video is as follows:
 1. The Segregate button is pressed so the camera is opened.
 2. Laptop is a waste in this scene.
 3. After the camera's button is pressed, the type of waste detected is E-waste and it is suggested to upload the waste in the waste market; this is shown by the red and green buttons respectively at top right.
